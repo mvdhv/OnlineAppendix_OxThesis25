@@ -1,0 +1,218 @@
+Number,Party,Total Contestants,Won,Second,Third,Party_Votes,Valid Votes,Valid Votes Contested,AC Leads,AC Second,AC Third
+1,Indian National Congress,417,145,171,46,"10,34,08,949",26.50%,34.50%,1162,1399,396
+2,Bharatiya Janta Party,364,138,133,71,"8,63,71,561",22.20%,34.40%,1077,1051,502
+3,Communist Party Of India (MARXIST),69,43,9,5,"2,20,70,614",5.70%,42.40%,321,89,43
+4,Samajwadi Party,237,36,22,33,"1,68,24,072",4.30%,10.30%,167,121,192
+5,Rashtriya Janata Dal,42,24,3,1,"93,84,147",2.40%,31.30%,121,44,6
+6,Bahujan Samaj Party,435,19,31,132,"2,07,65,229",5.30%,6.70%,109,145,1014
+7,Dravida Munetra Kazhagam,16,16,0,0,"70,64,393",1.80%,58.30%,96,0,0
+8,Shiv Sena,56,12,9,1,"70,56,255",1.80%,17.90%,68,57,13
+9,Biju Janata Dal,12,11,1,0,"50,82,849",1.30%,51.10%,66,18,0
+10,Communist Party Of India,34,10,5,7,"54,84,111",1.40%,23.70%,73,34,74
+11,Nationalist Congress Party,32,9,12,2,"70,23,175",1.80%,34%,77,78,16
+12,Janata Dal (United),73,8,17,30,"91,44,963",2.30%,17.70%,60,97,177
+13,Shiromani Akali Dal,10,8,2,0,"35,06,681",0.90%,43.40%,62,26,2
+14,Pattali Makkal Katchi,6,6,0,0,"21,69,020",0.60%,51.70%,53,7,0
+15,Independent,2385,5,7,102,"1,65,49,900",4.20%,4.60%,68,104,730
+16,Telugu Desam,33,5,28,0,"1,18,44,811",3%,42.80%,51,178,2
+17,Telangana Rashtra Samithi,22,5,0,5,"24,41,405",0.60%,13.20%,29,6,41
+18,Jharkhand Mukti Morcha,9,5,1,0,"18,46,843",0.50%,28.50%,24,9,9
+19,Lok Jan Shakti Party,40,4,3,3,"27,71,427",0.70%,10%,29,19,10
+20,Marumalarchi Dravida Munnetra Kazhagam,4,4,0,0,"16,79,870",0.40%,58.40%,24,0,0
+21,Janata Dal (Secular),43,3,7,21,"57,32,296",1.50%,15.70%,56,39,170
+22,Rashtriya Lok Dal,32,3,3,1,"24,63,607",0.60%,11.10%,22,12,7
+23,Revolutionary Socialist Party,6,3,1,1,"16,89,794",0.40%,33.60%,20,8,6
+24,All India Forward Bloc,10,3,0,0,"13,65,055",0.40%,18.90%,15,6,0
+25,All India Trinamool Congress,33,2,24,6,"80,71,867",2.10%,30.10%,49,150,80
+26,Asom Gana Parisad,12,2,4,4,"20,69,600",0.50%,23.50%,19,31,43
+27,Jammu & Kashmir National Conference,6,2,2,2,"4,93,067",0.10%,22.10%,25,30,23
+28,Muslim League Kerala State Committee,10,1,1,0,"7,70,098",0.20%,9.60%,9,5,0
+29,Nagaland Peoples Front,3,1,0,0,"7,15,366",0.20%,31.80%,55,5,1
+30,All India Majlis-E-Ittehadul Muslimoon,2,1,0,1,"4,17,248",0.10%,21.30%,4,1,6
+31,Republican Party Of India (A),7,1,0,0,"3,67,510",0.10%,6.30%,5,1,0
+32,National Loktantrik Party,18,1,0,0,"3,67,049",0.10%,2.80%,2,2,1
+33,Kerala Congress,1,1,0,0,"3,53,905",0.10%,48.60%,7,0,0
+34,Samajwadi Janata Party (RASHTRIYA),10,1,0,0,"3,37,386",0.10%,5.30%,3,2,1
+35,Jammu & Kashmir Peoples Democratic Party,3,1,2,0,"2,67,457",0.10%,39.50%,23,20,3
+36,Indian Federal Democratic Party,1,1,0,0,"2,56,411",0.10%,34.50%,3,3,1
+37,Mizo National Front,1,1,0,0,"1,82,864",0%,52.90%,30,10,0
+38,Bharatiya Navshakti Party,4,1,0,3,"1,71,080",0%,9.30%,1,0,20
+39,Sikkim Democratic Front,1,1,0,0,"1,53,409",0%,71.30%,32,0,0
+40,All India Anna Dravida Munnetra Kazhagam,33,0,33,0,"85,47,014",2.20%,35.70%,1,197,0
+41,Indian National Lok Dal,20,0,4,7,"19,36,703",0.50%,12.60%,10,34,43
+42,Communist Party Of India (MARXIST-LENINIST) (LIBERATION),65,0,1,9,"12,81,688",0.30%,2.70%,2,7,55
+43,Apna Dal,86,0,0,1,"8,44,053",0.20%,1.50%,1,1,4
+44,Gondvana Gantantra Party,31,0,1,4,"7,20,189",0.20%,3.60%,2,8,30
+45,Haryana Vikas Party,9,0,1,0,"5,06,122",0.10%,6.90%,4,2,5
+46,Jharkhand Party,57,0,1,5,"5,05,674",0.10%,1.20%,1,2,33
+47,Bharipa Bahujan Mahasangh,16,0,0,5,"4,28,566",0.10%,3.60%,0,3,26
+48,Shiromani Akali Dal (SIMRANJIT SINGH MANN),6,0,0,2,"3,87,682",0.10%,7.70%,2,2,14
+49,Kannada Nadu Party,21,0,0,0,"3,49,183",0.10%,1.90%,0,0,8
+50,Peasants And Workers Party Of India,3,0,1,2,"3,19,572",0.10%,14.80%,2,3,12
+51,Republican Party Of India,18,0,0,1,"2,95,545",0.10%,2.20%,0,2,13
+52,Suheldev Bhartiya Samaj Party,14,0,0,0,"2,75,267",0.10%,2.80%,0,1,1
+53,Peoples Republican Party,2,0,1,1,"2,61,219",0.10%,16.30%,0,6,7
+54,Kerala Congress(M),1,0,0,1,"2,09,880",0.10%,28.20%,0,2,5
+55,Rashtriya Samanta Dal,21,0,0,1,"2,09,694",0.10%,1.40%,0,1,8
+56,Samata Party,40,0,0,0,"2,01,276",0.10%,0.80%,0,0,6
+57,Lok Bhalai Party,1,0,0,1,"1,87,787",0%,21.60%,0,2,7
+58,All Jharkhand Students Union,5,0,0,2,"1,57,930",0%,5.20%,0,1,10
+59,Marxist Coordination,1,0,0,1,"1,47,470",0%,15.70%,0,3,2
+60,Rashtriya Samaj Paksha,13,0,0,1,"1,46,571",0%,1.50%,0,0,11
+61,Rashtriya Parivartan Dal,3,0,0,1,"1,39,145",0%,6%,0,2,2
+62,Jharkhand Disom Party,7,0,0,0,"1,35,685",0%,2.60%,0,0,2
+63,Pyramid Party Of India,13,0,0,3,"1,30,362",0%,1.10%,0,0,25
+64,Ekta Shakti,3,0,0,0,"1,26,924",0%,5%,0,2,3
+65,Autonomous State Demand Committee,1,0,1,0,"1,01,808",0%,25.30%,1,1,3
+66,Akhil Bharatiya Sena,1,0,0,1,"92,210",0%,26.50%,1,2,3
+67,Akhil Bharat Hindu Mahasabha,33,0,0,1,"88,214",0%,0.40%,0,0,2
+68,Federal Party Of Manipur,1,0,0,1,"88,179",0%,21.20%,4,11,8
+69,Bihar People's Party,1,0,0,1,"86,418",0%,13%,0,0,6
+70,Party For Democratic Socialism,2,0,0,1,"81,999",0%,5%,0,0,8
+71,Samata Samaj Party,6,0,0,1,"78,791",0%,1.90%,0,0,4
+72,Mahabharat Peples Party,1,0,0,0,"77,055",0%,12.40%,4,8,6
+73,Arunachal Congress,1,0,1,0,"76,527",0%,34.70%,5,28,0
+74,Jharkhand Party,8,0,0,1,"74,364",0%,1.40%,0,0,3
+75,J & K National Panthers Party,7,0,0,0,"70,078",0%,2%,1,1,1
+76,Indian Justice Party,29,0,0,0,"67,914",0%,0.30%,0,0,0
+77,Jharkhand Party (NOREN),3,0,0,1,"67,782",0%,2.80%,0,1,2
+78,"United Minorities Front, Assam",2,0,0,0,"64,657",0%,4.20%,0,2,0
+79,Labour Party (Secular),20,0,0,0,"63,989",0%,0.40%,0,0,0
+80,Rashtriya Swabhimaan Party,31,0,0,0,"58,296",0%,0.30%,0,0,0
+81,Pragtisheel Manav Samaj Party,6,0,0,0,"54,746",0%,1.30%,0,0,0
+82,Lok Rajya Party,8,0,0,1,"54,097",0%,0.90%,0,0,4
+83,Bahujan Kisan Dal,9,0,0,0,"52,669",0%,0.90%,0,0,0
+84,Majlis Bachao Tahreek,1,0,0,0,"47,560",0%,4.80%,0,0,2
+85,Peoples Democratic Party,1,0,0,0,"45,720",0%,6.30%,0,0,1
+86,Uttarakhand Kranti Dal,4,0,0,1,"43,899",0%,2%,0,0,28
+87,Marxist Communist Party Of India (S.S.SRIVASTAVA),4,0,0,0,"38,766",0%,1.10%,0,0,2
+88,Amara Bengali,7,0,0,0,"38,107",0%,0.70%,0,0,0
+89,Vidharbha Rajya Party,2,0,0,0,"36,974",0%,2.60%,0,0,0
+90,Urs Samyuktha Paksha,3,0,0,0,"33,128",0%,1.30%,0,0,0
+91,Ambedkarist Republican Party,7,0,0,0,"31,467",0%,0.60%,0,0,0
+92,Prabuddha Republican Party,7,0,0,0,"29,792",0%,0.50%,0,0,0
+93,Rashtravadi Communist Party,1,0,0,0,"28,757",0%,5%,0,0,1
+94,Rashtriya Samajik Nayak Paksha,1,0,0,0,"27,594",0%,4%,0,0,0
+95,Sampurna Vikas Dal,3,0,0,1,"27,135",0%,1%,0,0,4
+96,Tamil Desiyak Katchi,2,0,0,0,"25,348",0%,1.80%,0,0,0
+97,Kosi Vikas Party,2,0,0,0,"25,258",0%,1.90%,0,0,1
+98,Chhattisgarhi Samaj Party,3,0,0,0,"24,696",0%,1.20%,0,0,1
+99,Bharatiya Manavata Vikas Party,2,0,0,0,"24,176",0%,1.30%,0,0,3
+100,Loktantrik Samajwadi Party,3,0,0,0,"22,811",0%,1.10%,0,0,0
+101,Savarn Samaj Party,7,0,0,0,"21,246",0%,0.50%,0,0,0
+102,Ambedkar Samaj Party,9,0,0,0,"20,767",0%,0.40%,0,0,0
+103,Indian National League,4,0,0,0,"20,159",0%,0.50%,0,0,0
+104,Bharatiya Gaon Taj Dal,11,0,0,0,"19,909",0%,0.20%,0,0,0
+105,Akhil Bharatiya Congress Dal (Ambedkar),2,0,0,0,"19,548",0%,1.40%,0,0,0
+106,Socialist Party (LOHIA),1,0,0,0,"18,628",0%,2%,0,0,0
+107,Shivrajya Party,4,0,0,0,"18,374",0%,0.60%,0,0,0
+108,Samajwadi Jan Parishad,2,0,0,0,"17,717",0%,1.50%,0,0,1
+109,Hindustan Janata Party,4,0,0,0,"17,410",0%,0.50%,0,0,0
+110,Revolutionary Communist Party Of India (RASIK BHATT),1,0,0,0,"16,691",0%,2.50%,0,0,0
+111,Bharatiya Republican Paksha,10,0,0,0,"16,546",0%,0.20%,0,0,0
+112,Rashtriya Vikas Party,5,0,0,0,"15,159",0%,0.30%,0,0,0
+113,Trinamool Gana Parishad,1,0,0,0,"14,933",0%,1.70%,0,0,0
+114,Manuvadi Party,5,0,0,0,"14,233",0%,0.50%,0,0,0
+115,Bharat Kranti Rakshak Party,7,0,0,0,"12,547",0%,0.30%,0,0,0
+116,Rashtriya Hamara Dal,1,0,0,0,"12,346",0%,1.90%,0,0,0
+117,Parivartan Samaj Party,5,0,0,0,"12,273",0%,0.30%,0,0,0
+118,Bharatiya Eklavya Party,2,0,0,0,"12,197",0%,0.90%,0,0,0
+119,Janta Party,1,0,0,0,"12,009",0%,1.60%,0,0,0
+120,Proutist Sarva Samaj Party,4,0,0,0,"11,561",0%,0.40%,0,0,0
+121,Bharatiya Rashtravadi Paksha,1,0,0,1,"11,459",0%,2.50%,0,0,7
+122,Pachim Banga Rajya Muslim League,1,0,0,0,"10,446",0%,1%,0,0,0
+123,Rajasthan Vikash Party,2,0,0,0,"10,032",0%,0.70%,0,0,0
+124,Lokpriya Samaj Party,3,0,0,0,"9,913",0%,0.40%,0,0,0
+125,Akhil Bharatiya Jan Sangh,7,0,0,0,"9,707",0%,0.20%,0,0,0
+126,Rashtriya Krantikari Samajwadi Party,5,0,0,0,"9,145",0%,0.30%,0,0,0
+127,Vidharbha Janata Congress,2,0,0,0,"9,097",0%,0.60%,0,0,0
+128,Shoshit Samaj Dal,4,0,0,0,"8,862",0%,0.30%,0,0,0
+129,Jai Hind Party,3,0,0,0,"8,645",0%,0.30%,0,0,0
+130,Bharatiya Minorities Suraksha Mahasangh,3,0,0,0,"8,200",0%,0.40%,0,0,0
+131,Akhil Bharatiya Desh Bhakt Morcha,1,0,0,0,"7,696",0%,1.30%,0,0,0
+132,Maharashtrawadi Gomantak,2,0,0,0,"7,584",0%,1.40%,0,0,4
+133,Rashtriya Sawarn Dal,2,0,0,0,"7,374",0%,0.30%,0,0,0
+134,Navbharat Nirman Party,7,0,0,0,"7,169",0%,0.10%,0,0,0
+135,Krantikari Samyavadi Party,1,0,0,0,"6,948",0%,1%,0,0,0
+136,Democratic Bharatiya Samaj Party,2,0,0,0,"6,717",0%,0.40%,0,0,0
+137,Youth And Students Party,1,0,0,0,"6,580",0%,0.80%,0,0,0
+138,Ephraim Union,1,0,0,1,"6,512",0%,1.90%,0,0,40
+139,Akhil Bharatiya Lok Tantrik Alp-Sankhyak Jan Morcha,1,0,0,0,"6,003",0%,1.30%,0,0,0
+140,United Goans Democratic Party,1,0,0,1,"5,881",0%,2%,0,0,11
+141,Pichhra Samaj Party,1,0,0,0,"5,672",0%,0.80%,0,0,0
+142,Momin Conference,1,0,0,0,"5,113",0%,0.70%,0,0,0
+143,Labour Party Of India (V.V. PRASAD),1,0,0,0,"4,977",0%,0.40%,0,0,1
+144,All India Minorities Front,1,0,0,0,"4,874",0%,0.70%,0,0,0
+145,Republican Party Of India (KHOBRAGADE),1,0,0,0,"4,790",0%,0.70%,0,0,0
+146,Naari Shakti Party,1,0,0,0,"4,649",0%,0.40%,0,0,0
+147,Bahujan Vikas Party,2,0,0,0,"4,533",0%,0.30%,0,0,0
+148,Bharatiya Ekta Dal,1,0,0,0,"4,312",0%,0.60%,0,0,0
+149,Shikshit Berozgar Sena,1,0,0,0,"4,303",0%,0.60%,0,0,0
+150,Yuva Gantantra Party,1,0,0,0,"4,140",0%,0.60%,0,0,0
+151,Rashtravadi Janata Party,1,0,0,0,"3,737",0%,0.20%,0,0,0
+152,Kranti Kari Jai Hind Sena,3,0,0,0,"3,393",0%,0.10%,0,0,0
+153,Mudiraj Rashtriya Samithi,1,0,0,0,"3,345",0%,0.30%,0,0,0
+154,Sikkim Sangram Parishad,1,0,0,1,"3,216",0%,1.50%,1,0,23
+155,Janata Vikas Party,1,0,0,0,"3,173",0%,0.60%,0,0,0
+156,National Students Party,1,0,0,0,"3,069",0%,0.40%,0,0,0
+157,Secular Party Of India,2,0,0,0,"3,041",0%,0.20%,0,0,0
+158,Vikas Party,2,0,0,0,"2,998",0%,0.20%,0,0,0
+159,Social Action Party,1,0,0,0,"2,987",0%,0.50%,0,0,0
+160,Akhil Bharatiya Rashtriya Azad Hind Party,1,0,0,0,"2,801",0%,0.50%,0,0,0
+161,Loktantrik Chetna Party,1,0,0,0,"2,776",0%,0.50%,0,0,0
+162,Sikkim Himali Rajya Parishad,1,0,0,0,"2,765",0%,1.30%,1,0,9
+163,Janmangal Paksh,1,0,0,0,"2,684",0%,0.40%,0,0,0
+164,Sanatan Samaj Party,1,0,0,0,"2,679",0%,0.60%,0,0,0
+165,Lok Sewa Dal,1,0,0,0,"2,646",0%,0.40%,0,0,0
+166,Jana Unnayan Mancha,1,0,0,0,"2,592",0%,0.30%,0,0,0
+167,Rashtriya Lok Seva Morcha,1,0,0,0,"2,476",0%,0.30%,0,0,0
+168,Republican Party Of India (DEMOCRATIC),1,0,0,0,"2,370",0%,0.30%,0,0,0
+169,Bhartiya Lok Kalyan Dal,1,0,0,0,"2,242",0%,0.30%,0,0,0
+170,Panchayat Raj Party,1,0,0,0,"2,165",0%,0.20%,0,0,0
+171,Bharatiya Backward Party,2,0,0,0,"2,162",0%,0.10%,0,0,0
+172,All Kerala M.G.R. Dravida Munnetra Party,1,0,0,0,"2,158",0%,0.30%,0,0,0
+173,Akhil Bhartiya Rajarya Sabha,2,0,0,0,"2,080",0%,0.20%,0,0,0
+174,Bharat Ki Lok Jimmedar Party,1,0,0,0,"2,055",0%,0.30%,0,0,0
+175,Rashtriya Garima Party,1,0,0,0,"2,043",0%,0.20%,0,0,0
+176,Rashtriya Garib Dal,1,0,0,0,"1,977",0%,0.20%,0,0,0
+177,Ekta Krandi Dal U.P.,2,0,0,0,"1,939",0%,0.10%,0,0,0
+178,Bharatiya Labour Party,1,0,0,0,"1,758",0%,0.20%,0,0,0
+179,Phule Bharti Lok Party,1,0,0,0,"1,690",0%,0.20%,0,0,0
+180,Bharatiya Prajatantrik Shudh Gandhiwadi Krishak Dal,1,0,0,0,"1,689",0%,0.20%,0,0,0
+181,Mool Bharati (S) Party,1,0,0,0,"1,675",0%,0.20%,0,0,0
+182,Bharatiya Nagrik Party,2,0,0,0,"1,580",0%,0.10%,0,0,0
+183,Jammu And Kashmir Awami League,1,0,0,0,"1,519",0%,0.80%,0,0,0
+184,Hind Morcha,1,0,0,0,"1,459",0%,0.10%,0,0,0
+185,Jharkhand People's Party,1,0,0,0,"1,449",0%,0.20%,0,0,0
+186,Maharashtra Rajiv Congress,1,0,0,0,"1,399",0%,0.20%,0,0,0
+187,Janhit Samaj Party,1,0,0,0,"1,310",0%,0.10%,0,0,0
+188,Vijeta Party,1,0,0,0,"1,304",0%,0.10%,0,0,0
+189,Socialistic Democratic Party,1,0,0,0,"1,265",0%,0.60%,0,0,0
+190,Jansatta Party,1,0,0,0,"1,189",0%,0.10%,0,0,0
+191,Federal Congress Of India,1,0,0,0,"1,037",0%,0.10%,0,0,0
+192,Nidaya Malik (N) Party,1,0,0,0,"1,030",0%,0.20%,0,0,0
+193,Indian Bahujan Samajwadi Party,1,0,0,0,972,0%,0.10%,0,0,0
+194,Desh Bhakt Party,3,0,0,0,912,0%,0.10%,0,0,0
+195,Ambedkar National Congress,1,0,0,0,825,0%,0.10%,0,0,0
+196,Ntr Telugu Desam Party (LAKSHMI PARVATHI),1,0,0,0,759,0%,0.10%,0,0,0
+197,Akhil Bhartiya Loktantra Party,1,0,0,0,754,0%,0.10%,0,0,0
+198,Jebamani Janata,1,0,0,0,734,0%,0.10%,0,0,0
+199,Niswarth Sewa Party,1,0,0,0,730,0%,0.10%,0,0,0
+200,Jan Chetna Party,1,0,0,0,671,0%,0.10%,0,0,0
+201,Hindu Ekta Andolan Party,1,0,0,0,620,0%,0.10%,0,0,0
+202,Krantikari Manuwadi Morcha,1,0,0,0,597,0%,0.10%,0,0,0
+203,Bharatiya Prajatantra Party,1,0,0,0,573,0%,0%,0,0,0
+204,Bharatiya Muhabbat Party (All India),1,0,0,0,566,0%,0.10%,0,0,0
+205,Manav Jagriti Manch,1,0,0,0,552,0%,0%,0,0,0
+206,Bharatiya Janvadi Party,1,0,0,0,543,0%,0.10%,0,0,0
+207,Bharatiya Surajya Manch,1,0,0,0,515,0%,0.20%,0,0,0
+208,Rashtriya Janadhikar Party,1,0,0,0,487,0%,0%,0,0,0
+209,Praja Party,1,0,0,0,485,0%,0.10%,0,0,0
+210,Bharti Sarvadarshi Parishad,1,0,0,0,427,0%,0.10%,0,0,0
+211,Shoshit Samaj Party,1,0,0,0,395,0%,0.10%,0,0,0
+212,Rashtriya Sakar Party,1,0,0,0,379,0%,0.10%,0,0,0
+213,Bharatiya Sarvkalyan Krantidal,1,0,0,0,365,0%,0.10%,0,0,0
+214,Awami Party,1,0,0,0,327,0%,0%,0,0,0
+215,Swaraj Dal,1,0,0,0,298,0%,0.20%,1,0,0
+216,Akhand Bharti,1,0,0,0,138,0%,0.10%,0,0,0
+217,Parmarth Party,1,0,0,0,126,0%,0%,0,0,0
