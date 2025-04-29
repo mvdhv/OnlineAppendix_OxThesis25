@@ -70,4 +70,8 @@ The repository is organized as follows:
 - Full interview transcripts cannot be made publicly available due to prior ethical commitments approved by the University’s CUREC board.
 
 For additional details regarding interview data collection procedures, ethics documentation, and data availability policies, please refer to **Appendix A.4** of the thesis.  
-For instructions on data usage or reproduction, please consult the license file provided in this repository.
+
+## License Status
+
+No license has been assigned to the materials in this repository until the thesis evaluation process is complete. All rights reserved.  
+Use, reproduction, or redistribution of any materials is not permitted without explicit written permission from the author.
