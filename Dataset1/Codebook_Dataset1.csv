@@ -1,0 +1,11 @@
+Column Name,Description
+Interview_ID,"Unique anonymized identifier assigned to each interviewee (e.g., R1, R2)."
+Response,Verbatim excerpt made by the respondent.
+Theme,"The broader conceptual category to which the response relates (e.g., Democracy_Features)."
+Subtheme,"A narrower, more specific issue within the theme (e.g., Procedural_Democracy)."
+Respondent_Type,"Role of the respondent (e.g., Government, Journalist, Civil Society, Bureaucrat)."
+Respondent_Affiliation,"The political party, media outlet, or institutional affiliation of the respondent."
+Location,Geographic location associated with the respondent (usually the state or national capital).
+Contextual_Clues,"Brief notes offering background context that may help interpret the quote (e.g., respondents mood, tone, position in party)."
+Contradictions,"Any conflicting or contradictory statements made by the respondent, if applicable."
+Additional_Notes,Additional field notes or observations made by the researcher during or after the interview.
