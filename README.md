@@ -1,5 +1,4 @@
-# Extended Materials for Asymmetries of Autocratization: 
-# Exploring Subnational Democratic Stability Amid National Backsliding in India
+# Extended Materials for Asymmetries of Autocratization: Exploring Subnational Democratic Stability Amid National Backsliding in India
 
 This repository contains the extended materials associated with the Thesis submitted in partial fulfilment of the requirements for the degree Master of Philosophy in Politics (Comparative Government) by Candidate Number: 1070251
 
