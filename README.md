@@ -1,4 +1,5 @@
-# Extended Materials for Asymmetries of Autocratization: Exploring Subnational Democratic Stability Amid National Backsliding in India
+# Extended Materials for Asymmetries of Autocratization: 
+# Exploring Subnational Democratic Stability Amid National Backsliding in India
 
 This repository contains the extended materials associated with the Thesis submitted in partial fulfilment of the requirements for the degree Master of Philosophy in Politics (Comparative Government) by Candidate Number: 1070251
 
@@ -51,6 +52,17 @@ The repository is organized as follows:
   - Audio/Transcript Permissions
 
   *(All information has been anonymized, and general designations were recorded with prior participant consent.)*
+
+### 6. Other Datasets Used
+- **ENOP Calculation Files (`Other Datasets Used/1951_ENOP.csv` through `Other Datasets Used/2024_ENOP.csv`)**  
+  These files contain manually compiled national-level electoral results for each general election year from **1951 to 2024**.  
+  They were used to calculate the **Effective Number of Parties (ENOP)** at the national level in the absence of publicly available ready-to-use datasets (e.g., from TCPD).
+
+- **`Other Datasets Used/potential_coalitions.csv`**  
+  This file is derived from `df_state` and contains manually coded information on:
+  - Presence of coalition governments at the state level
+  - Names of major coalitions
+  - Additional variables capturing coalition dynamics in state governments
 
 ---
 
