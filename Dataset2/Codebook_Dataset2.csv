@@ -1,0 +1,14 @@
+Column Name,Description
+Interview_ID,"Anonymized ID of the respondent (e.g., R1, R2)."
+Response,Verbatim excerpt offered by the respondent.
+Respondent_Type,"Role of the respondent (e.g., Media, Bureaucrat, etc.)."
+Respondent_Affiliation,"Affiliated political party, institution, or organization."
+Location,Geographic or political location associated with the respondent.
+States_Mentioned,State(s) directly referenced in the respondents remarks.
+Variables_Referenced,"Key theoretical or empirical variables mentioned in the quote (e.g., Opposition_Strength, Subnational_Autonomy)."
+Relationship_Type,"The type of relationship indicated (e.g., Causal, Mediating, Descriptive)."
+Direction_of_Effect,"Direction of the effect discussed on state democracy (e.g., Increases, Decreases, Both)."
+Causal_Path,"Causal chain or mechanisms present in the quote, implied or otherwise"
+Channel,"Field through which the causal effect is said to operate (e.g., Federal, Economic, Electoral)."
+Outcome_Reference,"Explicit reference to the broader outcome of interest (e.g., Democratic Stability)."
+Importance_Rating,Assigned importance score by the researcher based on how critical the quote is for building the theory.
